@@ -1,12 +1,12 @@
 # Working_Paper_Unemployment_2025
-Complementary code files for the following Working Paper: 
+Complementary code files for the Working Paper: 
 "Who is covered by unemployment insurance in China? De jure coverage, de facto coverage, and the dynamics of development."
 
 Authors: Müller, Armin; Gibson, John; ten Brink, Tobias
 
 Year of publication: 2025
 
-SOCIUM SFB 1342 Working Paper Series, number 29
+SOCIUM SFB 1342 Working Paper Series, number 29 (peer-reviewed).
 
 Published by: University of Bremen (SOCIUM; SFB 1342)
 
